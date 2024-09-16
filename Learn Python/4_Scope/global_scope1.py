@@ -16,7 +16,11 @@ print(f"Character has {calculate_health(10)} max health.")
 
 print(f"Character has {calculate_primary_stats(3, 8)} primary stats.")
 
-
+"""OUTPUTS
+Character has 40 max health.
+Character has 15 primary stats.
+[Finished in 227ms]
+"""
 
 
 

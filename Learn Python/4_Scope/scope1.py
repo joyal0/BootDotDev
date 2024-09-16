@@ -14,6 +14,14 @@ max_health = get_max_health(my_modifier, my_level)
 
 print(f"max_health is: {max_health}")
 
+
+"""OUTPUTS
+max_health is: 50
+[Finished in 203ms]
+""""
+
+
+
 """Scope
 Scope refers to where a variable or function name 
 is available to be used. For example, when we 
