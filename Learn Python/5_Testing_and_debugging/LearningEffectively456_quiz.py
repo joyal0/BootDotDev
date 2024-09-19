@@ -1,10 +1,16 @@
 print("You will be penalized for peeking at the \
 	solution after you have successfully completed \
-	an assignment. \n True \n False(My Choice)")
+	an assignment. \n  True \n  False(MY CHOICE**************)\n")
 
+print("Temporarily adding print() statements is a \
+	good way to... \n  ...submit your code to the grader \
+	\n  quickly test and debug small pieces of code(MY CHOICE**************) \
+	\n  ...lose some xp \n  ...get carpal tunnel syndrome\n")
 
-
-
+print("When you're stuck, which should you do first?\
+	\n  Whine on X (Twitter) about how hard coding is\
+	\n  Peek at the solution\
+	\n  Ask Boots a question about your code(MY CHOICE**************)\n")
 
 
 """
